@@ -1,6 +1,6 @@
 // ****************************************************************
 // Task4_IntList.java
-//
+//Charlie Tronrud
 // An (unsorted) integer list class with a method to add an
 // integer to the list and a toString method that returns the contents
 // of the list with indices.
